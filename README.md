@@ -7,5 +7,7 @@ And the required pre-processing step also includes tokenizing text using the Sen
 
 Steps to run:
 Download the given py file and upload it in Jupyter or google colab.
+
 Run step by step and then you will get the output.
+
 You can give any English words or sentences to convert to hindi aka hinglish. 
